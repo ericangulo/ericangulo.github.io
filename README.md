@@ -1,3 +1,3 @@
 # ericangulo.github.io
-Angulo Rubio Eric Radames
+<h1>Angulo Rubio Eric Radames</h1>
 Paniagua Rodriguez Swan Japhet
